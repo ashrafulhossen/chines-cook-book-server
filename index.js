@@ -23,6 +23,9 @@ app.get("/chefs/:id", (req, res) => {
     res.send(matchedChefRecipies);
 })
 
+app.get("/recipes", (req, res) => {
+    res.send(recipes);
+});
 
 app.listen(port, () => {
     console.log("Chinese cookbook server is running.....")
