@@ -1,0 +1,84 @@
+{
+	"chefs": [
+		{
+			"_id": "6148bde73112fca1aaead91d478c547f",
+			"name": "Chen Kenichi",
+			"image": "https://danbites.files.wordpress.com/2009/11/chen.jpg",
+			"bio": "Chen Kenichi is a master Sichuan chef from Japan, known for his bold and spicy flavors. He has over 30 years of experience in Chinese cuisine.",
+			"years_of_experience": 30,
+			"recipes_num": 200
+		},
+		{
+			"_id": "d690c747de8d1f170b7dcfbef1e666c4",
+			"name": "Martin Yan",
+			"image": "https://yancancook.com/home/wp-content/uploads/2017/03/chefyan_headshot.jpg",
+			"bio": "Martin Yan is a Hong Kong-born chef and television host, famous for his popular cooking show Yan Can Cook. He has over 40 years of experience in Chinese cuisine.",
+			"years_of_experience": 40,
+			"recipes_num": 300
+		},
+		{
+			"_id": "31212c5a019a7f8cbcf1d46555191f32",
+			"name": "Susur Lee",
+			"image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/images/methode/2018/10/08/453aa764-caa1-11e8-9460-2e07e264bd11_1280x720_155251.jpg?itok=EK5CgGSD",
+			"bio": "Susur Lee is a Chinese-Canadian chef and restaurateur, known for his fusion cuisine that blends Chinese, French, and other international flavors. He has over 30 years of experience in the culinary industry.",
+			"years_of_experience": 30,
+			"recipes_num": 150
+		},
+		{
+			"_id": "8b67af8aa515c2456bde9880e52a0ed2",
+			"name": "Ming Tsai",
+			"image": "https://ming.com/wp-content/uploads/2022/01/Rectangle-180-1.png",
+			"bio": "Ming Tsai is a Chinese-American chef, restaurateur, and television personality, known for his modern interpretations of classic Chinese dishes. He has over 25 years of experience in the culinary industry.",
+			"years_of_experience": 25,
+			"recipes_num": 250
+		},
+		{
+			"_id": "0e8e7c79e9d94d56c0b42ca8dd90ce0d",
+			"name": "Jereme Leung",
+			"image": "https://cdn.tatlerasia.com/asiatatler/i/sg/2019/09/14130236-jereme-leung-profilejpg2_cover_1050x1200.jpg",
+			"bio": "Jereme Leung is a Chinese-Singaporean chef and restaurateur, known for his innovative approach to Chinese cuisine that blends traditional flavors with modern techniques. He has over 20 years of experience in the culinary industry.",
+			"years_of_experience": 20,
+			"recipes_num": 100
+		},
+		{
+			"_id": "8356d25fc6a7c6e2d6c1e6a9f6b415d6",
+			"name": "David Chang",
+			"image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/article_1200_800/public/2019-12/david-chang.jpg.webp?itok=rRZumz96",
+			"bio": "David Chang is a Korean-American chef and restaurateur, known for his bold and creative interpretations of Asian cuisine. He has over 15 years of experience in the culinary industry.",
+			"years_of_experience": 15,
+			"recipes_num": 120
+		},
+		{
+			"_id": "56bbcf936af6eb7542066b7cf6ca17f6",
+			"name": "Yotam Ottolenghi",
+			"image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/MUwv8t3Wj4u7LSUBpSbqhh/460251e2-6e54-47fe-aef3-780c759ba636.jpg/r0_721_4508_3266_w1200_h678_fmax.jpg",
+			"bio": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and cookbook author, known for his inventive vegetarian dishes that draw on flavors from the Middle East and beyond. He has over 10 years of experience in the culinary industry.",
+			"years_of_experience": 10,
+			"recipes_num": 80
+		},
+		{
+			"_id": "8e7b9301dcbdc3a3f82c3d670003d5c5",
+			"name": "Ching-He Huang",
+			"image": "https://example.com/images/chef-ching-he-huang.jpg",
+			"bio": "Ching-He Huang is a Taiwanese-born chef and television presenter who has appeared on numerous cooking shows in the UK and US. She is known for her modern approach to Chinese cuisine and her ability to fuse traditional Chinese flavors with Western cooking techniques.",
+			"years_of_experience": 20,
+			"recipes_num": 50
+		},
+		{
+			"_id": "cd7a81b82f8da7b4d4baf2e82e2329c8",
+			"name": "Yu Bo",
+			"image": "https://video-images.vice.com/articles/59030e3657ce532208a41f40/lede/1493372725547-chef-yu-bo-chengdu-family-kitchen.jpeg?crop=0.904xw:0.7609xh;0.0363xw,0.0674xh&resize=700:*",
+			"bio": "Yu Bo is a chef from Shandong province, known for his innovative approach to traditional Chinese cuisine. He has over 30 years of experience in the culinary industry.",
+			"years_of_experience": 30,
+			"recipes_num": 80
+		},
+		{
+			"_id": "0e8e7c79e9d94d56c0b42ca8dd90ce0d",
+			"name": "Wan Jianhua",
+			"image": "https://signatureweds.com/wp-content/uploads/2017/10/Chef-Wan-Mandarin-Oriental-Palaces-Cuisine-of-Malaysia-2.jpg",
+			"bio": "Wan Jianhua is a chef from Hunan province, known for his bold and spicy Hunan cuisine. He has over 15 years of experience in the culinary industry.",
+			"years_of_experience": 15,
+			"recipes_num": 50
+		}
+	]
+}
