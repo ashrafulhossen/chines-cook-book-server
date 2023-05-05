@@ -13,21 +13,37 @@ app.get("/", (req, res) => {
 });
 
 app.get("/chefs", (req, res) => {
-    res.send(chefs);
-})
+	res.send(chefs);
+});
 
 app.get("/chefs/:id", (req, res) => {
-    const id = req.params.id;
+	const id = req.params.id;
 
-    const matchedChefRecipies = recipes.find(recipe => recipe._id === id);
-    res.send(matchedChefRecipies);
-})
+	const matchedChefRecipies = recipes.find((recipe) => recipe._id === id);
+	const matchedChef = chefs.chefs.find((chef) => chef._id === id);
+	matchedChef.recipes = matchedChefRecipies.recipes;
+	res.send(matchedChef);
+	console.log(matchedChefRecipies);
+});
 
 app.get("/recipes", (req, res) => {
-    res.send(recipes);
+	res.send(recipes);
+});
+
+app.get("/today-recipes", (req, res) => {
+	const index = Math.floor(Math.random() * 5);
+	const todayRecipes = recipes.map((recipe) => {
+		const { name, image } = recipe.recipes[index];
+		const todayRecipe = {
+			name,
+			image,
+		};
+		return todayRecipe;
+	});
+	console.log(todayRecipes);
+	res.send(todayRecipes);
 });
 
 app.listen(port, () => {
-    console.log("Chinese cookbook server is running.....")
-})
-
+	console.log("Chinese cookbook server is running.....");
+});

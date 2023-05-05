@@ -57,14 +57,6 @@
 			"recipes_num": 80
 		},
 		{
-			"_id": "8e7b9301dcbdc3a3f82c3d670003d5c5",
-			"name": "Ching-He Huang",
-			"image": "https://example.com/images/chef-ching-he-huang.jpg",
-			"bio": "Ching-He Huang is a Taiwanese-born chef and television presenter who has appeared on numerous cooking shows in the UK and US. She is known for her modern approach to Chinese cuisine and her ability to fuse traditional Chinese flavors with Western cooking techniques.",
-			"years_of_experience": 20,
-			"recipes_num": 50
-		},
-		{
 			"_id": "cd7a81b82f8da7b4d4baf2e82e2329c8",
 			"name": "Yu Bo",
 			"image": "https://video-images.vice.com/articles/59030e3657ce532208a41f40/lede/1493372725547-chef-yu-bo-chengdu-family-kitchen.jpeg?crop=0.904xw:0.7609xh;0.0363xw,0.0674xh&resize=700:*",
@@ -73,9 +65,9 @@
 			"recipes_num": 80
 		},
 		{
-			"_id": "0e8e7c79e9d94d56c0b42ca8dd90ce0d",
+			"_id": "0e8e7c79e9d94d56c0b42ca8dd90ce0f",
 			"name": "Wan Jianhua",
-			"image": "https://signatureweds.com/wp-content/uploads/2017/10/Chef-Wan-Mandarin-Oriental-Palaces-Cuisine-of-Malaysia-2.jpg",
+			"image": "https://i.malaysiakini.com/1198/6d30b96c8c282a29e9c6e0e4c41fd036.jpeg",
 			"bio": "Wan Jianhua is a chef from Hunan province, known for his bold and spicy Hunan cuisine. He has over 15 years of experience in the culinary industry.",
 			"years_of_experience": 15,
 			"recipes_num": 50
